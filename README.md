@@ -5,7 +5,7 @@ A simple React app that changes the background color with button clicks.
 ![color changer screenshot](./public/screenshots/screenshot.png)
 
 ### Demo
-[Live Demo]()
+[Live Demo](https://color-changer-olive.vercel.app/)
 
 ### Features
 - Click buttons to change background color
