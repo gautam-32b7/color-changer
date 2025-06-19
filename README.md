@@ -12,6 +12,13 @@ A simple React app that changes the background color with button clicks.
 - Smooth color transitions
 
 ### Setup
+`git clone` https://github.com/gautam-32b7/color-changer.git
+
+`cd` color-changer
+
+`npm install`
+
+`npm run dev`
 
 ### Tech Stack
 - React
